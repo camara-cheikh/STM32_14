@@ -1,2 +1,2 @@
 # STM32_14
-c'est le programme .c pour le SHT31.
+c'est les programmes .c et .h pour le SHT31.
